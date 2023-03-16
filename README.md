@@ -20,7 +20,7 @@ You can see the description of the implementation method in the following file:
 
 
 ## Result
-![App Screenshot](https://github.com/kiananvari/perceptron-learning-rule/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/MNIST-classification-with-neural-network-compression/raw/main/Result.png)
 
 
 
