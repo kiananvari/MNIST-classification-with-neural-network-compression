@@ -16,7 +16,7 @@ Deep Neural Network Compression for Image Classification
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/MNIST-classification-with-neural-network-compression/raw/main/Documentation.pdf)
 
 
 ## Result
